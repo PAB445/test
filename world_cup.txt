@@ -1,0 +1,4 @@
+Reason	Percent
+hello	25
+sick	22
+sltt	22
